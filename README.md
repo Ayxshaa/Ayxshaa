@@ -33,7 +33,6 @@
 | Project | Description | Live |
 |--------|-------------|------|
 | **🌐 Portfolio** | Animated portfolio with morphing text and 3D background | [View](https://ayeshashhh.netlify.app/) |
-| **✨ EventFlow** | Event planner app with smooth UI and Framer Motion | [View](https://flowevent.netlify.app/) |
 | **🌊 Chat App- AI** | Real-time talk depend on the Modes You choose | [View](https://a4zone.onrender.com/) |
 
 ---
