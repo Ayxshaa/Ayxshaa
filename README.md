@@ -33,7 +33,7 @@
 | Project | Description | Live |
 |--------|-------------|------|
 | **🌐 Portfolio** | Animated portfolio with morphing text and 3D background | [View](https://ayeshashhh.netlify.app/) |
-| **🌊 Chat App- AI** | Real-time talk depend on the Modes You choose | [View](https://a4zone.onrender.com/) |
+| **🌊 Chat App- AI** | Real-time talk depend on the Modes You choose | [View](https://a4zone.netlify.app/) |
 
 ---
 
