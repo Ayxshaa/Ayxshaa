@@ -27,7 +27,7 @@
 <tr>
 <td width="65%">
 
-# Hey, I'm Ayesha 👋
+# Hey, I'm Ayesha~
 
 ### Creative Frontend Developer & 3D Web Artist
 
@@ -39,12 +39,12 @@ I'm especially interested in making the web feel more alive through
 
 Currently exploring:
 
-- 🌐 Interactive 3D websites
-- 🧊 Three.js & React Three Fiber
-- 🎨 GLSL & shader experiments
-- ✨ GSAP & creative motion
-- ⚡ WebGL performance & optimization
-- 🤖 3D / AI interfaces
+-  Interactive 3D websites
+-  Three.js & React Three Fiber
+-  GLSL & shader experiments
+-  GSAP & creative motion
+-  WebGL performance & optimization
+-  3D / AI interfaces
 
 </td>
 
