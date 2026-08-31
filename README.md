@@ -1,48 +1,77 @@
-<h1 align="center">Hi, I'm Ayesha Qureshi 👋</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         HERO                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  Creative Frontend Developer & 3D Web Artist  
-  <br />
-  <em>React • Three.js • GLSL • Framer Motion • UI/UX</em>
+  <img src="./Banner.png" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://ayeshashhh.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayesha-qureshhi-a67414344/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:qureshiayesha660@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayxshaa">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔮 About Me
+<table>
+<tr>
+<td width="65%">
 
-- 🎨 Passionate about interactive web experiences & 3D interfaces  
-- 🚀 Building smooth, animated, creative portfolios & apps  
-- 🌊 Currently exploring real-time 3D visualization & shader design
+# Hey, I'm Ayesha 👋
 
----
+### Creative Frontend Developer & 3D Web Artist
 
-### 🧰 Tech Stack
+I build **interactive digital experiences** where frontend development meets
+**3D, motion and creative coding**.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![GLSL](https://img.shields.io/badge/-GLSL-8E2DE2?style=flat)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-E10098?style=flat&logo=framer)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat)
+I'm especially interested in making the web feel more alive through
+**Three.js, WebGL, shaders, animations and immersive interactions.**
 
----
+Currently exploring:
 
-### 📌 Featured Projects
+- 🌐 Interactive 3D websites
+- 🧊 Three.js & React Three Fiber
+- 🎨 GLSL & shader experiments
+- ✨ GSAP & creative motion
+- ⚡ WebGL performance & optimization
+- 🤖 3D / AI interfaces
 
-| Project | Description | Live |
-|--------|-------------|------|
-| **🌐 Portfolio** | Animated portfolio with morphing text and 3D background | [View](https://ayeshashhh.netlify.app/) |
-| **🌊 Chat App- AI** | Real-time talk depend on the Modes You choose | [View](https://a4zone.netlify.app/) |
+</td>
 
----
+<td width="35%" align="center">
 
-### 📬 Let’s Connect
+<img src="./SideBanner.png" width="220px" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayesha-qureshi-a67414344/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Ayxshaa)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qureshiayesha660@gmail.com)
+</td>
+</tr>
+</table>
 
 ---
 
+## ✦ What I Build
 
+```text
+       ┌─────────────────────────────────┐
+       │       CREATIVE DEVELOPMENT      │
+       └────────────────┬────────────────┘
+                        │
+        ┌───────────────┼───────────────┐
+        ↓               ↓               ↓
+     FRONTEND           3D           MOTION
+        │               │               │
+      React          Three.js          GSAP
+      Vite            WebGL       Framer Motion
+      Tailwind        GLSL
+                        │
+                        ↓
+              Interactive Experiences
