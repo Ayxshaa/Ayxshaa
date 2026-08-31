@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="./Banner.png" width="100%" />
+  <img src="./image.png" width="100%" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Currently exploring:
 
 <td width="35%" align="center">
 
-<img src="./SideBanner.png" width="220px" />
+<img src="./SideBanner.jpg" width="220px" />
 
 </td>
 </tr>
